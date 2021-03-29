@@ -2,7 +2,8 @@
 Python > 3.7
 
 ## Parameters setting:
-* deep learning archiecture can be set in net.py
+* deep learning archicture is presented in net.py
+
 * other hyperparameters can be tuned in utils.py and learn-patient-representaion.sh
 
 ## Training:
