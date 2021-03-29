@@ -6,7 +6,7 @@ The pipeline is adapted from [Landi, I., Glicksberg, B. S., Lee, H. C., Cherng, 
 
 
 ## EHR-based 
-Here, only the EHR data is used.
+Here, only the EHR data is used. <br/>
 Following hyperparameters are changed: batch-size = 32, epoch = 30, learning rate = 0.00001, weight-decay = 0.0001
 
 
@@ -17,4 +17,4 @@ In this part, we combine both EHR data and genetic data to create a fused repres
 ## Clustering
 The K-means clustering algorithm is applied to derive patient clusters.
 
-Please refer to README file in each subdirectory for more details.
+Please refer to README file in each subdirectory for detailed description.
