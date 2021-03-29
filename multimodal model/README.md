@@ -7,14 +7,15 @@ Python > 3.7
 
 ## Training:
 run following bash script to start training
-'''
+```
 sh learn-patient-representation.sh
-'''
+```
+
 
 ## Extract embeddings:
 Once the training is completed, run the following to extract the embeddings
-'''
+```
 python evaluation.py
-'''
+```
 
-Follow this [link]() for the clustering part.
+Follow this [link](https://github.com/jiahao95/hypertension_clustering/tree/main/clustering) for the clustering part.
