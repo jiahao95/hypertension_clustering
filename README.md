@@ -6,8 +6,9 @@ The project is structured as follows:
 
 
 ## EHR-based model
-Here, only the EHR data is used. <br/>
-Following hyperparameters are changed to the original pipeline: batch-size = 32, epoch = 30, learning rate = 0.00001, weight-decay = 0.0001
+Here, only the EHR data is used. <br/> <br/>
+Following hyperparameters are changed to the original pipeline: 
+batch-size = 32, epoch = 30, learning rate = 0.00001, weight-decay = 0.0001, kernel = 3.
 
 
 ## Multimodal model
