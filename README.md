@@ -17,4 +17,4 @@ In this part, we combine both EHR data and genetic data to create a fused repres
 ## Clustering
 The K-means clustering algorithm is applied to derive patient clusters.
 
-Please refer to README file in each subdirectory for detailed description.
+_*Please refer to README file in each subdirectory for detailed description.*_
