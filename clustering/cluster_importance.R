@@ -168,5 +168,5 @@ colnames(proc_sub) <- c('Procedure',
 
 library(writexl)
 
-write_xlsx(proc_sub, 'summary_stats_table_procedure_integrative.xlsx')
+write_xlsx(proc_sub, 'summary_stats_table_procedure.xlsx')
 
